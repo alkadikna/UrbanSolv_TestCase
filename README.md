@@ -2,7 +2,7 @@
 
 ## Pipeline
 <p align="center">
-  <img src="image.png" alt="UrbanSolv Pipeline" width="100%">
+  <img src="image.png" alt="UrbanSolv Pipeline" style="max-width: 100%; height: auto;">
 </p>
 
 ## Task 1 — Data Collection
